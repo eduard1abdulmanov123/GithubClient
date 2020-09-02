@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">GithubClient</string>
+
+    <string name="network_error">Произошла ошибка при загрузке данных. Проверьте подключение к сети</string>
+    <string name="repeat">Повторить</string>
+    <string name="short_network_error">Ошибка загрузки</string>
+
+    <string name="github_reps_title">Repositories</string>
+
+    <string name="creator_title">Creator</string>
+    <string name="contributor_title">Contributor</string>
+    <string name="last_commit_title">Last commit</string>
+    <string name="parents_title">Parents</string>
+</resources>
